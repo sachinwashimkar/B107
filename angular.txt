@@ -1,0 +1,7 @@
+<p>view-employee works!</p>
+<div *ngFor="let emp of allemployee">
+{{emp.id}}
+{{emp.name}}
+{{emp.address}}
+
+</div>
