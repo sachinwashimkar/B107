@@ -1,1 +1,7 @@
-
+public class Sachin
+{
+public void m1()
+{
+System.out.println("sachin--m1");
+}
+}
